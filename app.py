@@ -38,7 +38,7 @@ st.markdown(
 )
 
 with st.form("fee_form"):
-    st.subheader("📌 Input Details")
+    st.subheader("Input Details")
 
     col1, col2 = st.columns(2)
     with col1:
