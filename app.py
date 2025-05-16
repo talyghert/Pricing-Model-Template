@@ -1,3 +1,10 @@
+
+! git init
+! git remote add origin https://github.com/talyghert/pricing-model-template.git
+! git add .
+! git commit -m "Initial commit"
+! git push -u origin master
+
 import streamlit as st
 
 def get_base_cost(model_type, property_type):
