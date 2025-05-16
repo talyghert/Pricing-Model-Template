@@ -5,6 +5,9 @@
 ! git commit -m "Initial commit"
 ! git push -u origin master
 
+! pip install streamlit
+
+
 import streamlit as st
 
 def get_base_cost(model_type, property_type):
